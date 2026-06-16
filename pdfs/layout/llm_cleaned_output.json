@@ -1,0 +1,3670 @@
+[
+    {
+        "page_number": 1,
+        "page_type": "blank_or_unknown",
+        "text_structure": null,
+        "clean_blocks": [],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 2,
+        "page_type": "blank_or_unknown",
+        "text_structure": null,
+        "clean_blocks": [],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 3,
+        "page_type": "blank_or_unknown",
+        "text_structure": null,
+        "clean_blocks": [],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 4,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "mixed_text_structure",
+            "reason": "Body region contains multiple strong text structures: paragraph_based, form_like",
+            "mixed_types": [
+                "paragraph_based",
+                "form_like"
+            ],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 1,
+                "structured_list": 0,
+                "form_like": 3
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "empty_or_non_text",
+                    "word_count": 0,
+                    "char_count": 0,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 717,
+                    "char_count": 4777,
+                    "line_count": 6,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 1,
+                        "structured_list": 0,
+                        "form_like": 3
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "empty_or_non_text",
+                    "word_count": 0,
+                    "char_count": 0,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "unknown",
+                "text": "Tracking universal health coverage: 2025 global monitoring report",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "unknown",
+                "text": "ISBN (WHO) 978-92-4-011780-8 (electronic version)",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "unknown",
+                "text": "ISBN (WHO) 978-92-4-011781-5 (print version)",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "unknown",
+                "text": "© World Health Organization and the International Bank for Reconstruction and Development / The World Bank, 2025",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 5,
+                "role": "paragraph",
+                "text": "Some rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO\nlicence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 6,
+                "role": "paragraph",
+                "text": "Under the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes, provided the\nwork is appropriately cited, as indicated below. In any use of this work, there should be no suggestion that the World Health\nOrganization (WHO) and/or the International Bank for Reconstruction and Development / The World Bank (The World Bank)\nendorses any specific organization, products or services. The use of the WHO or The World Bank logo is not permitted. If\nyou adapt the work, then you must license your work under the same or equivalent Creative Commons licence, and you\nshould add the following disclaimer along with the suggested citation: This is an adaptation of an original work by the World\nHealth Organization and The World Bank. WHO and the World Bank are not responsible for the content or accuracy of this\nadaptation. Responsibility for the views and opinions expressed in the adaptation rests solely with the author or authors\nof the adaptation and are not endorsed by the World Health Organization and The World Bank. If you create a translation\nof this work, you should add the following disclaimer along with the suggested citation: “This translation was not created\nby the World Health Organization (WHO) or the International Bank for Reconstruction and Development / The World Bank\n(The World Bank). WHO and The World Bank are not responsible for the content or accuracy of this translation. The original\nEnglish edition shall be the binding and authentic edition”.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 7,
+                "role": "paragraph",
+                "text": "Any mediation relating to disputes arising under the licence shall be conducted in accordance with the mediation rules of\nthe World Intellectual Property Organization (http://www.wipo.int/amc/en/mediation/rules).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 8,
+                "role": "paragraph",
+                "text": "Suggested citation. Tracking universal health coverage: 2025 global monitoring report. Geneva: World Health Organization\nand the International Bank for Reconstruction and Development / The World Bank; 2025. Licence: CC BY-NC-SA 3.0 IGO.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 9,
+                "role": "heading",
+                "text": "Cataloguing-in-Publication (CIP) data. CIP data are available at http://apps.who.int/iris.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 10,
+                "role": "paragraph",
+                "text": "Sales, rights and licensing. To purchase WHO publications, see https://www.who.int/publications/book-orders. To submit\nrequests for commercial use and queries on rights and licensing, see http://www.who.int/about/licensing.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 11,
+                "role": "paragraph",
+                "text": "Third-party materials. If you wish to reuse material from this work that is attributed to a third party, such as tables, figures\nor images, it is your responsibility to determine whether permission is needed for that reuse and to obtain permission\nfrom the copyright holder. The risk of claims resulting from infringement of any third-party owned component in the work\nrests solely with the user.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 12,
+                "role": "paragraph",
+                "text": "General disclaimers. The designations employed, colors, denominations, links/footnotes and the presentation of the\nmaterial in this publication do not imply the expression of any opinion whatsoever on the part of WHO and/or The World\nBank concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation\nof its frontiers or boundaries. Dotted lines on maps represent approximate border lines for which there may not yet be\nfull agreement.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 13,
+                "role": "paragraph",
+                "text": "Terminology used in this publication follows the institutional style and practice of the WHO as lead publishing organization,\nand may be at variance with those used by The World Bank.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 14,
+                "role": "unknown",
+                "text": "The citation of works authored by others does not mean the WHO and the World Bank endorses the views expressed by\nthose authors or the content of their works.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 15,
+                "role": "paragraph",
+                "text": "The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed or\nrecommended by WHO and The World Bank in preference to others of a similar nature that are not mentioned. Errors and\nomissions excepted, the names of proprietary products are distinguished by initial capital letters.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 16,
+                "role": "paragraph",
+                "text": "All reasonable precautions have been taken by WHO and/or The World Bank to verify the information contained in this\npublication. However, the published material is being distributed without warranty of any kind, either expressed or implied.\nThe responsibility for the interpretation and use of the material lies with the reader. In no event shall WHO and/or The\nWorld Bank be liable for damages arising from its use.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 17,
+                "role": "footer",
+                "text": "Editing and design by Inis Communication",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 5,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "mixed_text_structure",
+            "reason": "Body region contains multiple strong text structures: paragraph_based, table_based, form_like",
+            "mixed_types": [
+                "paragraph_based",
+                "table_based",
+                "form_like"
+            ],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 3,
+                "structured_list": 0,
+                "form_like": 4
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "empty_or_non_text",
+                    "word_count": 0,
+                    "char_count": 0,
+                    "line_count": 0,
+                    "rect_count": 3,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "form_like",
+                    "word_count": 191,
+                    "char_count": 1265,
+                    "line_count": 21,
+                    "rect_count": 14,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 3,
+                        "structured_list": 0,
+                        "form_like": 4
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 17,
+                    "char_count": 100,
+                    "line_count": 1,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "heading",
+                "text": "Contents",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "list",
+                "text": "Foreword vi\nAcknowledgements vii\nAbbreviations ix\nGlossary of key terms x\nExecutive Summary xiv\nIntroduction: A revised and improved monitoring framework for universal health coverage 1\nChapter 1: Progress towards UHC 11\n1.1. The world progressed on both UHC pillars, but progress has slowed in the SDG era 12\n1.2. Progress on indicator components was uneven 13\n1.3. Despite global progress, large UHC shortfalls persist 15\n1.4. Results across country income groups converged slowly, but important disparities remain 18\n1.5. All regions raised service coverage, and half reduced financial hardship 19\n1.6. The revision of indicators influences findings in both UHC dimensions 21\nChapter 2: Deep dive on service coverage 25\n2.1. Infectious disease indicators drove progress on the UHC service coverage index 26\n2.2. Between-country inequalities in service coverage narrowed, but more slowly after 2015 28\n2.3. Inequalities in forgone care and unmet need hamper UHC progress 30\nChapter 3: Deep dive on financial hardship 35\n3.1. Poverty reduction drove progress in reducing impoverishing OOP health spending, but gains were uneven 36\n3.2. Socio-demographic factors amplify disparities 41\n3.3. In most countries, spending on medicines is the largest component of OOP health spending 45",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "footer",
+                "text": "iii",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 6,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "paragraph_based",
+            "reason": "Strongest body-region pattern: paragraph_based",
+            "mixed_types": [],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 2,
+                "structured_list": 0,
+                "form_like": 0
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 5,
+                    "char_count": 36,
+                    "line_count": 2,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 390,
+                    "char_count": 2400,
+                    "line_count": 22,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 2,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 1,
+                    "char_count": 2,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "list",
+                "text": "Conclusions 49\nReferences 54\nAnnexes\nAnnex 1. Methods to calculate the UHC service coverage index, SDG 3.8.1, additional analyses and data availability 61\nAnnex 2. Data availability and global/regional aggregation methods for financial hardship 68\nAnnex 3. Sustainable Development Goal (SDG) indicators of universal health coverage (UHC) by location, most recent year available 74\nAnnex references 82",
+                "is_continuation": false,
+                "continues_from_previous_page": true,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "list",
+                "text": "List of tables\nTable 0.1. Revisions to UHC service coverage index tracer indicator 3\nTable 0.2. Revisions to SDG indicator 3.8.2 and complementary indicators 5\nTable 1.1. After 2015, 3 out of 4 country-income groups made gains in service coverage and reduced financial hardship, with the fastest progress in low-income countries 18\nTable 1.2. From 2015 to 2022/2023, half of the WHO regions progressed or held steady in all components of the SDG UHC indicators 20\nTable A1.1. Data sources used in the calculation of the UHC SCI (SDG 3.8.1) 61\nTable A1.2. Availability of primary data by WHO region and globally, 2019–2023 67\nTable A2.1. Availability of survey-based estimates for financial hardship (SDG 3.8.2) 68\nTable A2.2. Average number and frequency of survey-based estimates for financial hardship (SDG 3.8.2) 69\nTable 1.3. Comparison of trends presented in Global monitoring reports, 2023 and 2025 22",
+                "is_continuation": false,
+                "continues_from_previous_page": true,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "paragraph",
+                "text": "List of figures\nFig. 1. Global trends in UHC service coverage index (top) and financial hardship (bottom),\n2000–2022/2023 xv\nFig. 2. Global annual rates of progress, 2000–2015 and 2015–2022/2023 xvi\nFig. 3. Global estimates and projected values of UHC pillars to 2030 xvi\nFig. 0.1. Financial hardship and financial barriers to accessing health care 6\nFig. 1.1. UHC progress is too slow: at the current pace, service coverage will remain\nunder 80, and nearly 1 in 4 people will face financial hardship in 2030 12\nFig. 1.2. Since 2000, infectious disease control and lower impoverishing OOP have driven\nUHC gains – but progress in both slowed after 2015 14\nFig. 1.3. Midway through the SDG era, over half of the world was not yet fully covered\nby essential health services, and more than a quarter of all people faced\nfinancial hardship 16\nFig. 1.4. Since 2000, more than half of countries have improved service coverage and\nreduced financial hardship – but since 2015, fewer than 4 in 10 have done so 17\nFig. 2.1. Three tracer indicators accounted for more than three-quarters of change\nin the global SCI, 2000 to 2023 27",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "footer",
+                "text": "iv",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 7,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "paragraph_based",
+            "reason": "Strongest body-region pattern: paragraph_based",
+            "mixed_types": [],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 2,
+                "structured_list": 0,
+                "form_like": 0
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 51,
+                    "char_count": 314,
+                    "line_count": 2,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 2,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 279,
+                    "char_count": 1743,
+                    "line_count": 13,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 2,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 1,
+                    "char_count": 1,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "paragraph",
+                "text": "Fig. 2.2. Progress in basic sanitation led SCI gains in half of WHO regions, 2000 to 2023 28\nFig. 2.3. Between-country inequalities in service coverage narrowed globally\nand across WHO regions, but gains have slowed after 2015 29\nFig. 2.4. Change in inequalities in the proportion of women experiencing problems in\naccessing health care across 38 low- and middle-income countries, 2004–2013\nand 2014–2023 31\nFig. 2.5. Inequality in the proportion of people who needed health care in the past 12\nmonths but did not have it, 30 European countries, 2019 32\nFig. 2.6. Inequality in the proportion of people who needed medical or dental care\nin the past 12 months but did not have it, 25 European countries, 2021–2024 33\nFig. 3.1. The rate of impoverishing OOP health spending is mainly driven by people\nfurther impoverished due to OOP health spending 37\nFig. 3.2. Global poverty and impoverishing OOP health spending rates declined,\nbut the relative contribution of OOP health spending to poverty increased 38\nFig. 3.3. The share of total OOP health spending contributed by those facing\nimpoverishing OOP health spending is generally low, but it is highest\nin low-income countries 39\nFig. 3.4. Globally, financial hardship rose in the lowest consumption quintile\nand fell or changed little in the other quintiles, 2000–2022 41\nFig. 3.5. People in multigenerational households face the highest median financial\nhardship rate, while those living in households of only older adults face\nhigher rates of large OOP spending 43\nFig. 3.6. Financial hardship is slightly lower in female-headed households,\nbut markedly higher in rural populations 44\nFig. 3.7. Medicines account for over 55% of OOP health spending in most countries\nwith available data 46\nFig. A1.1. Schematic of UHC SCI (SDG 3.8.1) components and calculation 65",
+                "is_continuation": true,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "paragraph",
+                "text": "List of boxes\nBox 1.1. Implications of indicator revisions for global UHC monitoring 21\nBox 3.1. A health system approach to address financial protection 47",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "footer",
+                "text": "v",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 8,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "paragraph_based",
+            "reason": "Strongest body-region pattern: paragraph_based",
+            "mixed_types": [],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 1,
+                "structured_list": 0,
+                "form_like": 0
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 1,
+                    "char_count": 8,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 423,
+                    "char_count": 2923,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 1,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 1,
+                    "char_count": 2,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "heading",
+                "text": "Foreword",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "paragraph",
+                "text": "Universal health coverage (UHC) is central to building more resilient, equitable, and\nprosperous societies. The promise of UHC is improved health outcomes, greater human\ncapital accumulation, and protection from financial hardship due to the need to seek\nhealth care. But health care also creates jobs and drives inclusive development. Healthy\npeople are better equipped to seize opportunities and fuel economic expansion. We can\nmake real progress that improves health, transforms lives, and builds stronger economies.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "paragraph",
+                "text": "But we need to invest much more in health and accelerate progress if we want to turn\nthe vision of universal health coverage into reality—one where everyone, everywhere, can\naccess the care they need without financial hardship.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "paragraph",
+                "text": "The latest data confirm both the progress made and the scale of the challenge ahead.\nA decade after the world committed to achieving UHC by 2030 under the Sustainable\nDevelopment Goals, this Global Monitoring Report offers the most comprehensive\nassessment of where we stand today—and what must change to accelerate progress.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 5,
+                "role": "paragraph",
+                "text": "Global progress has been made in expanding access to essential health services and\nreducing the financial hardship caused by health costs. Yet progress has been uneven and,\namid a global polycrisis, has slowed in recent years. As of 2023, an estimated 4.6 billion\npeople still lacked coverage for essential health services, and in 2022, 2.1 billion people\nexperienced financial hardship due to out-of-pocket health spending.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 6,
+                "role": "paragraph",
+                "text": "Progress in controlling infectious diseases stands in contrast to slower gains in other areas\nof health. Financial hardship continues to fall disproportionately on the poorest and most\nvulnerable, with 1.6 billion people pushed into or deeper into poverty in 2022 because of\nout-of-pocket health spending. Socio-demographic factors—including where people live,\nhousehold composition, sex, and age—further compound these inequities.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 7,
+                "role": "paragraph",
+                "text": "The way forward is clear. Adequate public funding must underpin health coverage—\nespecially for the poor—through essential benefit packages with zero or minimal\ncost-sharing. Strengthening health services across the life course and engaging the\nprivate sector strategically can accelerate equitable progress. Reducing high spending on\nmedicines—the largest driver of out-of-pocket costs—alongside promoting cost-effective\ncare, efficient resource use, and stronger public health functions will be critical.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 8,
+                "role": "unknown",
+                "text": "Achieving this demands sustained political commitment, smarter investments, and an\nunwavering focus on those most at risk.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 9,
+                "role": "paragraph",
+                "text": "With only five years left until 2030, this report highlights both the progress achieved and\nthe urgency to act. What is needed now is leadership—to transform commitment into\naction and make health for all a lived reality.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 10,
+                "role": "unknown",
+                "text": "Dr Yukiko Nakatani Mamta Murthi",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 11,
+                "role": "unknown",
+                "text": "Assistant Director-General, Health Systems Vice President, People",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 12,
+                "role": "footer",
+                "text": "World Health Organization World Bank Group",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 13,
+                "role": "footer",
+                "text": "vi",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 9,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "mixed_text_structure",
+            "reason": "Body region contains multiple strong text structures: paragraph_based, form_like",
+            "mixed_types": [
+                "paragraph_based",
+                "form_like"
+            ],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 2,
+                "structured_list": 0,
+                "form_like": 3
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "empty_or_non_text",
+                    "word_count": 0,
+                    "char_count": 0,
+                    "line_count": 0,
+                    "rect_count": 4,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 387,
+                    "char_count": 2697,
+                    "line_count": 2,
+                    "rect_count": 11,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 2,
+                        "structured_list": 0,
+                        "form_like": 3
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 12,
+                    "char_count": 91,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "heading",
+                "text": "Acknowledgements",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "paragraph",
+                "text": "The core writing team of the report includes: Gabriela Flores, Jessica Ho, Rouselle Lavado,\nVladimir Sergeevich Gordeev, Asiyeh Abbasi, and Catherine Korachais from the World\nHealth Organization (WHO); and Gil Shapira, Patrick Hoang-Vu Eozenou, Marc-François\nSmitz, Ruchika Bhatia, and Jakob Othman from the World Bank. The team thanks Alexander\nIrwin (World Bank), who served as technical writer.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "paragraph",
+                "text": "The extended team – including those who contributed to specific sections – includes:\nCharlton Callender, Ahmadreza Hosseinpoor, Katherine Kirkby, Anne Schlotheuber and\nSusan Sparkes from WHO.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "paragraph",
+                "text": "The report team thanks Kalipso Chalkidou, Matthew Jowett, Alain Labrique and Haidong\nWang (from WHO) and Agnès Couffinhal (from World Bank) for guidance and valuable\ninputs during all stages of the report production. WHO would like to thank Yukiko Natakani\n(WHO) for her oversight and suggestions. The World Bank would like to thank Monique\nVledder and David Wilson (World Bank) for their oversight and suggestions. Technical\ncoordination and development of this report were led by Jessica Ho and Gabriela Flores\n(WHO) and Gil Shapira (World Bank).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 5,
+                "role": "paragraph",
+                "text": "The report team would like to thank peer reviewers who provided comments and\nsuggestions to improve the report: Dave Clarke, Alison Commar, Tamas Gyula Evetovits,\nHebe Gouda, Nathalia Houghton, Marjolaine Nicod, Claudia Pescetto, Ruchita Rajbhandary,\nMegumi Rosenberg, Amani Siyam, Gretchen Stevens and Sarah Thomson (WHO); and Caryn\nBredenkamp, Alaka Holla, Dean Joliffe, Umar Serajuddin and Ajay Tandon (World Bank).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 6,
+                "role": "paragraph",
+                "text": "The report team also would like to thank colleagues and consultants who helped to improve\nthe quality and completeness of the data that forms the basis of this report: Rocio Garcia-\nDiaz, Lynn Al Tayara, Marcos Gallardo Martínez, Jorge Alejandro García-Ramírez, María\nSerrano Gregori, Vuk Cadjenovic, Vishnu Prasad Sapkota, Vassily Trubetskoy, and David\nZombre (WHO); Dee Wang and Sahar Zandinia (United Nations Children’s Fund); Joseph\nMolitoris (United Nations Department of Economic and Social Affairs); as well as colleagues\nfrom the World Bank Poverty Global Practice and Development Data Group.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 7,
+                "role": "paragraph",
+                "text": "The report team expresses gratitude to WHO regional office colleagues for the support\nprovided during the country consultation process on SDG 3.8 indicators: Keyrellous Adib,\nLynn Al Tayara, Laura Anderson, Ernesto Bascolo, Mathieu Bastard, Serge Marcial Bataliack,\nMichel Beusenberg, Annie Chu, Ogochukwu Chukwujekwu, Adrienne Cox, Jenny Cresswell,\nStefania Davia, Henry Doctor, Benson Droti, Laure Dumolard, Tesfaye Bedada Erbeto,\nSophie Faye, James Fitzgerald, Marcos Ignacio Gallardo Martinez, Jorge Alejandro Garcia,\nSebastian Garcia Saiso, Roland Dilipkumar Hensman, Maneeta Jain, Manoj Jhalani, Richard",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 8,
+                "role": "footer",
+                "text": "vii",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 10,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "paragraph_based",
+            "reason": "Strongest body-region pattern: paragraph_based",
+            "mixed_types": [],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 0,
+                "structured_list": 0,
+                "form_like": 0
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 47,
+                    "char_count": 325,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 1,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 143,
+                    "char_count": 942,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 1,
+                    "char_count": 4,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "paragraph",
+                "text": "Johnston, Teena Kunjumen, Alia Cynthia Luz, Awad Mataria, Ann-Beth Moller, David Novillo\nOrtiz, Kidong Park, Arash Rashidian, Maria Serrano Gregori, Jayendra Sharma, Patricia\nSoliz, Lluis Vinals Torres, Roland Kimbi Wango and Tomas Zapata.",
+                "is_continuation": true,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "paragraph",
+                "text": "The report team also expresses gratitude to all WHO country office colleagues for the\nsupport provided during the country consultation on SDG 3.8 indicators. WHO also\nexpresses appreciation to all ministry of health and national statistical office focal points\nfor taking the time to provide feedback during the country consultation process.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "paragraph",
+                "text": "WHO is grateful to the following for their generous funding support: Department of Foreign\nAffairs, Trade and Development of Canada; the UHC Partnership through funding provided\nby Belgium, Canada, the European Union, the French Ministry for Europe and Foreign\nAffairs, Germany, the Grand Duchy of Luxembourg, Irish Aid, the Government of Japan\n(Ministry of Health, Labour and Welfare), and the United Kingdom of Great Britain and\nNorthern Ireland (Foreign, Commonwealth & Development Office). WHO and the World\nBank would also like to jointly thank the Government of Japan for their funding support.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "footer",
+                "text": "viii",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 11,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "paragraph_based",
+            "reason": "Strongest body-region pattern: paragraph_based",
+            "mixed_types": [],
+            "scores": {
+                "paragraph_based": 2,
+                "table_based": 2,
+                "structured_list": 0,
+                "form_like": 0
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 1,
+                    "char_count": 13,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 105,
+                    "char_count": 815,
+                    "line_count": 46,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 2,
+                        "table_based": 2,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 2,
+                    "char_count": 16,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "heading",
+                "text": "Abbreviations",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "paragraph",
+                "text": "DHS demographic and health survey\nDTP3 diphtheria, tetanus toxoid and pertussis vaccine (3 doses)\nEHIS European Health Interview Survey\nEU-SILC European Statistics of Income and Living Conditions survey\nHIC high-income country\nIAEG Inter-Agency and Expert Group\nIHR International Health Regulations\nITN insecticide-treated net\nLIC low-income country\nLMIC lower-middle-income country\nMIC middle-income country\nNCD noncommunicable disease\nOOP out-of-pocket\nPHC primary health care\nRMNCH reproductive, maternal, newborn, and child health\nSCI service coverage index\nSDG Sustainable Development Goal\nSPL societal poverty line\nUHC universal health coverage\nUMIC upper-middle-income country\nUNDESA United Nations Department of Economic and Social Affairs\nUNICEF United Nations Children’s Fund\nWHO World Health Organization",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "footer",
+                "text": "Abbreviations ix",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 12,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "paragraph_based",
+            "reason": "Strongest body-region pattern: paragraph_based",
+            "mixed_types": [],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 1,
+                "structured_list": 2,
+                "form_like": 2
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 4,
+                    "char_count": 21,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 342,
+                    "char_count": 2331,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 1,
+                        "structured_list": 2,
+                        "form_like": 2
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "empty_or_non_text",
+                    "word_count": 0,
+                    "char_count": 0,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "heading",
+                "text": "Glossary of key terms",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "paragraph",
+                "text": "This glossary includes technical definitions, when available, and terminology used in the\nreport. Rather than being presented in alphabetical order, terms are grouped conceptually\nunder the two Sustainable Development Goals (SDG) indicators of universal health\ncoverage (UHC).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "unknown",
+                "text": "Universal health coverage (UHC) means that all people receive the health services they\nneed without facing financial hardship (1).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "heading",
+                "text": "Related to the service coverage dimension of UHC:",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 5,
+                "role": "paragraph",
+                "text": "• Health services: Any good or service delivered in the health system within the full\ncontinuum from health promotion to prevention, treatment, rehabilitation and palliative\ncare across the life course (2).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 6,
+                "role": "paragraph",
+                "text": "• Essential health services: Health services that all countries, regardless of their\ndemographic, epidemiological or economic profile, are expected to provide. For global\nservice coverage monitoring, this includes essential services based on selected tracer\ninterventions that span reproductive, maternal, newborn and child health (RMNCH),\ninfectious diseases, noncommunicable diseases (NCDs), and service capacity and access,\namong the general and the most disadvantaged populations (3,4).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 7,
+                "role": "unknown",
+                "text": "• Effective coverage: The proportion of people in need of health services who receive\nservices of sufficient quality to obtain potential health gains (4,5).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 8,
+                "role": "paragraph",
+                "text": "• SDG indicator 3.8.1 – Service coverage index (SCI): Corresponds to the population-\nweighted geometric means of selected essential services spanning four health domains:\nRMNCH, infectious diseases, NCDs, and service capacity and access. As an index score,\nthe SCI cannot be directly interpreted as the percentage of the population covered by\na set of essential services (3).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 9,
+                "role": "paragraph",
+                "text": "• Forgone care: Forgoing services occurs when people recognize a health need but\ncannot access care, medicines or other products due to barriers at any point in the\ncare pathway. It is distinct from unmet need, which can exist without awareness of the\nneed. Surveys typically capture forgone care by asking about recent situations where\nneeded treatment was not received and the reasons why (6).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 10,
+                "role": "paragraph",
+                "text": "• Unmet need for health care: Unmet health care need ranges from unexpressed\ndemand, where people do not seek care, to expressed demand that is inadequately\nmet due to ineligibility or poor-quality treatment. Some individuals experience both (6).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 13,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "paragraph_based",
+            "reason": "Strongest body-region pattern: paragraph_based",
+            "mixed_types": [],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 1,
+                "structured_list": 2,
+                "form_like": 2
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 38,
+                    "char_count": 229,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 1,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 559,
+                    "char_count": 3676,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 1,
+                        "structured_list": 2,
+                        "form_like": 2
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 5,
+                    "char_count": 24,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "heading",
+                "text": "Related to the financial hardship dimension of UHC:",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "paragraph",
+                "text": "• Out-of-pocket (OOP) health spending is voluntary, paid at point of care without risk\npooling. In effect, it is what people pay directly from their own income, savings or loans\nwhen using health services or buying health products, excluding anything covered by\ninsurance, taxes or reimbursements. It includes costs such as medicines, doctor visits,\nhospital care and diagnostics. It does not include indirect costs such as transportation,\nnor the opportunity cost of seeking health care (e.g. lost income) or non-medical\nexpenses such as gym memberships or nutritional supplements.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "paragraph",
+                "text": "• Financial hardship in health occurs when OOP health spending reduces people’s ability\nto meet basic needs or substantially reduces their ability to afford other goods and\nservices. SDG indicator 3.8.2 is used for global tracking of financial hardship in health.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "paragraph",
+                "text": "• Financial hardship due to OOP health spending: see financial hardship in health\ndefinition. Both terms are used interchangeably.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 5,
+                "role": "paragraph",
+                "text": "• Financial protection in health refers to the absence of financial barriers to accessing\nneeded care and lack of financial hardship due to out-of-pocket health spending. Global\nmonitoring using SDG indicator 3.8.2 (original or revised) does not capture financial\nbarriers to access (7).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 6,
+                "role": "paragraph",
+                "text": "• Basic needs: Reflect sufficient consumption to meet a minimum energy requirement\nbased on food consumption patterns within each country plus a small allowance for non-\nfood expenditures (8). Poverty lines can represent the cost of meeting basic needs (9).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 7,
+                "role": "paragraph",
+                "text": "• Societal poverty line (SPL) is a hybrid poverty line that combines an absolute level\nof need (the intercept) with a relative component that rises gradually in line with\nconsumption or income levels (the gradient) (8). The SPL allows for the poverty threshold\nto vary across countries, essentially allowing for the cost of meeting basic needs to\nincrease with the economic development of societies. This results in a definition of\npoverty that is more closely aligned with each country’s own assessment of basic\nneeds. As a result, the SPL can be used as a single practical definition of basic needs\nacross countries. It is more easily referred to for a cross-country comparison exercise,\ncompared to using different absolute or relative poverty-line definitions depending on\nthe countries’ level of economic development. Other regional and national methods to\ndefine household discretionary budget (defined below) and methods to estimate basic\nneeds exist and are relevant to contextualize findings. For SDG indicator 3.8.2, the SPL is\ndefined in 2017 purchasing power parities and corresponds to whichever is greater: US$\n2.15 (the international absolute poverty line) or US$ 1.15 + 50% of median household\nconsumption expenditure or income net of OOP health spending. The 2021 purchasing\npower parities will be applied in the 2027 UHC monitoring report (10).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 8,
+                "role": "paragraph",
+                "text": "• Discretionary budget: Total consumption expenditure or income net of the cost of\nbasic needs. People living in poverty have negative discretionary budgets, as their level\nof consumption expenditure or income is below what is required to meet basic needs.\nFor global monitoring of financial hardship due to out-of-pocket health spending, the\nrevised SDG indicator 3.8.2 relies on the SPL as a measure of the cost of basic needs.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 9,
+                "role": "paragraph",
+                "text": "• Revised SDG 3.8.2 – Financial hardship indicator (discretionary budget approach):\nProportion of the population with positive out-of-pocket household expenditure on\nhealth exceeding 40% of household discretionary budget. The financial hardship\nindicator can be decomposed into the proportion of the population with impoverishing\nOOP health spending and the proportion with OOP health spending that is large but\nnon-impoverishing (defined below).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 10,
+                "role": "footer",
+                "text": "Glossary of key terms xi",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 14,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "paragraph_based",
+            "reason": "Strongest body-region pattern: paragraph_based",
+            "mixed_types": [],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 1,
+                "structured_list": 2,
+                "form_like": 0
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 50,
+                    "char_count": 331,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 1,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 310,
+                    "char_count": 2033,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 1,
+                        "structured_list": 2,
+                        "form_like": 0
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 1,
+                    "char_count": 3,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "paragraph",
+                "text": "• Impoverishing OOP health spending reduces people’s ability to meet basic needs.\nTherefore, it classifies any spending by people who cannot afford basic needs as a\nsource of financial hardship. In technical terms, impoverishing OOP health spending\nis OOP health spending that exceeds 100% of discretionary budget, or spending that\nleaves people with no discretionary budget once OOP is subtracted from their total\nbudget. The population incurring impoverishing health spending can be divided into\ntwo mutually exclusive groups of those further impoverished by OOP health spending\nand those pushed into poverty (defined below).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "paragraph",
+                "text": "• Large OOP health spending does not impact ability to meet basic needs but substantially\nreduces people’s ability to consume other goods and services. Under the revised SDG\n3.8.2 indicator, this refers to the share of the population whose OOP health spending\nexceeds 40% but remains below 100% of their discretionary budget.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "paragraph",
+                "text": "• Further impoverished by OOP health spending: People who are further impoverished\nare people who would be poor regardless of whether they incur OOP health spending,\nyet such spending further reduces their ability to meet basic needs. Under the revised\nSDG 3.8.2 indicator, the proportion further impoverished corresponds to those who live\nbelow the societal poverty line and incur any OOP health spending, as a share of the\ntotal population. These are people with negative discretionary budgets, and therefore\nany positive OOP health spending is above 40% of the discretionary budget.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "paragraph",
+                "text": "• Pushed into poverty by OOP health spending: Under the revised SDG 3.8.2 indicator,\nthe proportion pushed into poverty corresponds to the share of the total population\nwho do not live in societal poverty, based on their total consumption (or income), but\nwhose consumption (or income) falls below the SPL when net of OOP health spending.\nIn other words, these are people living in households that have positive discretionary\nbudgets and spend all of their discretionary budget on OOP health spending.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 5,
+                "role": "paragraph",
+                "text": "• Original SDG 3.8.2 – Catastrophic out-of-pocket health spending indicator (budget\nshare approach): Proportion of the population with OOP health spending exceeding\n10% and 25% of household total budget (consumption expenditure or income) (11).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 6,
+                "role": "footer",
+                "text": "xii",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 15,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "mixed_text_structure",
+            "reason": "Body region contains multiple strong text structures: paragraph_based, structured_list, form_like",
+            "mixed_types": [
+                "paragraph_based",
+                "structured_list",
+                "form_like"
+            ],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 1,
+                "structured_list": 3,
+                "form_like": 3
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 24,
+                    "char_count": 197,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 238,
+                    "char_count": 2213,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 1,
+                        "structured_list": 3,
+                        "form_like": 3
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 5,
+                    "char_count": 26,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "heading",
+                "text": "Glossary references",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "paragraph",
+                "text": "1. Tracking universal health coverage: 2023 global monitoring report. Geneva: World Health\nOrganization and International Bank for Reconstruction and Development/The World Bank;\n2023 (https://iris.who.int/handle/10665/374059).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "paragraph",
+                "text": "2. Universal health coverage [website]. Geneva: World Health Organization; 2025 (https://www.\nwho.int/health-topics/universal-health-coverage).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "paragraph",
+                "text": "3. SDG indicator metadata, indicator 3.8.1. New York: United Nations; 2025 (https://unstats.un.org/\nsdgs/metadata/files/Metadata-03-08-01.pdf).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 5,
+                "role": "paragraph",
+                "text": "4. Tanahashi T. Health service coverage and its evaluation. Bull World Health Organ. 1978;56(2):295–\n303 (https://iris.who.int/handle/10665/261736).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 6,
+                "role": "paragraph",
+                "text": "5. Tracking universal health coverage: 2017 global monitoring report. Geneva: World Health\nOrganization and the International Bank for Reconstruction and Development/The World Bank;\n2017 (https://iris.who.int/handle/10665/259817).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 7,
+                "role": "paragraph",
+                "text": "6. Handbook for conducting assessments of barriers to effective coverage with health services: in\nsupport of equity-oriented reforms towards universal health coverage. Geneva: World Health\nOrganization; 2024 (https://iris.who.int/handle/10665/377956).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 8,
+                "role": "paragraph",
+                "text": "7. Global monitoring report on financial protection in health 2021. Geneva: World Health\nOrganization and International Bank for Reconstruction and Development/The World Bank;\n2021 (https://iris.who.int/handle/10665/350240).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 9,
+                "role": "paragraph",
+                "text": "8. Jolliffe D, Prydz EB. Societal poverty: a relative and relevant measure. World Bank Econ Rev.\n2021;35(1):180–206 (https://doi.org/10.1093/wber/lhz018).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 10,
+                "role": "paragraph",
+                "text": "9. Monitoring global poverty: Report of the commission on global poverty. Washington, DC: World\nBank; 2017 (http://documents.worldbank.org/curated/en/353781479304286720).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 11,
+                "role": "paragraph",
+                "text": "10. Foster EM, Jolliffe D, Lara Ibarra G, Lakner C, Tetteh-Baah SK. Global poverty revisited using 2021\nPPPs and new data on consumption. World Bank Policy Research Working Paper Series No.\n11137. Washington (DC): World Bank; 2025 (https://documents.worldbank.org/en/publication/\ndocuments-reports/documentdetail/099503206032533226).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 12,
+                "role": "paragraph",
+                "text": "11. Wagstaff A, Flores G, Hsu J, Smitz M-F, Chepynoga K, Buisman LR, et al. Progress on catastrophic\nhealth spending: results for 133 countries. A retrospective observational study. Lancet Global\nHealth. 2017;6(2):e169–e179 (https://doi.org/10.1016/s2214-109x(17)30429-1).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 13,
+                "role": "footer",
+                "text": "Glossary of key terms xiii",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 16,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "paragraph_based",
+            "reason": "Strongest body-region pattern: paragraph_based",
+            "mixed_types": [],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 1,
+                "structured_list": 2,
+                "form_like": 0
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 2,
+                    "char_count": 17,
+                    "line_count": 0,
+                    "rect_count": 1,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 326,
+                    "char_count": 2187,
+                    "line_count": 1,
+                    "rect_count": 1,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 1,
+                        "structured_list": 2,
+                        "form_like": 0
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 24,
+                    "char_count": 142,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "heading",
+                "text": "Executive Summary",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "paragraph",
+                "text": "Universal health coverage (UHC) means that all people can receive the quality health\nservices they need without incurring financial hardship. In 2015, United Nations Member\nStates recognized its importance and committed to reach UHC by 2030 in the context of\nthe Sustainable Development Goals (SDGs).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "paragraph",
+                "text": "Tracking progress towards UHC demands attention to both dimensions, since expanding\ncoverage and reducing financial hardship simultaneously is a complex challenge. Policy-\nmakers must often make difficult choices about which populations and services to\nprioritize, and how much cost-sharing (fees) to introduce.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "paragraph",
+                "text": "The SDG global monitoring framework adopted two relevant indicators (SDG indicators\n3.8.1 and 3.8.2) in 2015. In 2025, the United Nations Statistical Commission approved\nproposals for revisions of the SDG UHC indicators, made jointly by the World Health\nOrganization and the World Bank, as part of a comprehensive review of all SDG indicators.\nThe revised global UHC monitoring framework uses the following two indicators:",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 5,
+                "role": "paragraph",
+                "text": "1. SDG indicator 3.8.1 is the UHC service coverage index, a composite index with a\nscore from 0 to 100, composed of 14 tracer indicators in the four broad health domains\nof reproductive, maternal, newborn and child health (RMNCH); infectious diseases;\nnoncommunicable diseases; and service capacity and access.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 6,
+                "role": "paragraph",
+                "text": "2. SDG indicator 3.8.2 tracks the proportion of the population facing financial\nhardship in health, reflecting out-of-pocket (OOP) health spending that reduces\nhouseholds’ ability to meet basic needs (impoverishing OOP) or that substantially\nreduces ability to consume other goods and services (large OOP).1",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 7,
+                "role": "unknown",
+                "text": "This Global monitoring report 2025 marks the first round of UHC tracking to use these\nupdated metrics, with reproduction of all country, regional and global results since 2000.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 8,
+                "role": "paragraph",
+                "text": "1 The technical definition of the revised SDG indicator 3.8.2 is “the proportion of the population with positive out-of-pocket\nhousehold expenditure on health exceeding 40% of household discretionary budget (budget net of the cost of basic\nneeds)”. The budget corresponds to the total consumption or income and the cost of basic needs is measured with the\nsocietal poverty line.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": true
+            },
+            {
+                "block_id": 9,
+                "role": "footer",
+                "text": "xiv",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 17,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "mixed_text_structure",
+            "reason": "Body region contains multiple strong text structures: paragraph_based, table_based",
+            "mixed_types": [
+                "paragraph_based",
+                "table_based"
+            ],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 4,
+                "structured_list": 0,
+                "form_like": 1
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "empty_or_non_text",
+                    "word_count": 0,
+                    "char_count": 0,
+                    "line_count": 0,
+                    "rect_count": 5,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 1
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "table_based",
+                    "word_count": 214,
+                    "char_count": 1240,
+                    "line_count": 7,
+                    "rect_count": 16,
+                    "table_count": 1,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 4,
+                        "structured_list": 0,
+                        "form_like": 1
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 21,
+                    "char_count": 123,
+                    "line_count": 1,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "heading",
+                "text": "Slow global progress towards UHC",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "paragraph",
+                "text": "Since 2000, the world has advanced on both pillars of UHC, expanding health service\ncoverage and reducing financial hardship. The global UHC service coverage index\n(SCI) rose from 54 index points in 2000 to 71 in 2023. The share of the global population\nincurring financial hardship due to OOP health spending fell from 34% in 2000 to 26% in\n2022 (Fig. 1).2\nFIG_ES_1\nFig. 1. Global trends in UHC service coverage index (top) and financial\nhardship (bottom), 2000–2022/2023",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "paragraph",
+                "text": "erocs 80\nretteb\n,xedni\n70",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "paragraph",
+                "text": "egarevoc\nsi 60\neroM\necivreS 50\nSDG era (2015–2023)\n40\n0002 1002 2002 3002 4002 5002 6002 7002 8002 9002 0102 1102 2102 3102 4102 5102 6102 7102 8102 9102 0202 1202 2202 3202",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 5,
+                "role": "heading",
+                "text": "Year",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 6,
+                "role": "paragraph",
+                "text": "40\nretteb noitalupop\nsi labolg\n30\nreweF\neht\nfo\n% SDG era (2015–2022)\n20\n0002 1002 2002 3002 4002 5002 6002 7002 8002 9002 0102 1102 2102 3102 4102 5102 6102 7102 8102 9102 0202 1202 2202",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 7,
+                "role": "heading",
+                "text": "Year",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 8,
+                "role": "paragraph",
+                "text": "Note: The peak years of disruption caused by the COVID-19 pandemic are depicted in dotted lines because data from\nthis period do not account for the pandemic’s full impact.\nSource: SDG indicator 3.8.1 and 3.8.2 (2025 definitions), Global service coverage and financial hardship databases\nassembled by WHO and the World Bank, 2025 update.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 9,
+                "role": "footer",
+                "text": "2 Previous trends compared to the revision are discussed later in this summary as well as section 1.6.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 10,
+                "role": "footer",
+                "text": "Executive Summary xv",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 18,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "mixed_text_structure",
+            "reason": "Body region contains multiple strong text structures: paragraph_based, table_based, form_like",
+            "mixed_types": [
+                "paragraph_based",
+                "table_based",
+                "form_like"
+            ],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 4,
+                "structured_list": 0,
+                "form_like": 3
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 53,
+                    "char_count": 344,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 2,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "table_based",
+                    "word_count": 283,
+                    "char_count": 1786,
+                    "line_count": 10,
+                    "rect_count": 27,
+                    "table_count": 2,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 4,
+                        "structured_list": 0,
+                        "form_like": 3
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 20,
+                    "char_count": 125,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "paragraph",
+                "text": "During the SDGs era, global progress towards UHC has slowed, highlighting the need\nfor renewed efforts to accelerate gains. Global progress in health service coverage\ndropped to one-third the annualized rate of the 2000–2015 period, while annual reductions\nin financial hardship were 23% slower than before 2015 (Fig. 2). Midway through the SDG\nera, 4.6 billion people worldwide still lacked access to essential health services in 2023,\nFIG_ES_2 and 2.1 billion faced financial hardship in health in 2022.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "paragraph",
+                "text": "Fig. 2. Global annual rates of progress, 2000–2015 and 2015–2022/2023",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "unknown",
+                "text": "SCI annualized rate of change Average annual reduction in financial hardship",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "paragraph",
+                "text": "1.6 1.5 2000–2015 2015–2022\n0\n1.4 egnahc\negatnecreP 1.2\n-0.1\n1.0\ntniop\n0.8\n-0.2\n0.6 0.5\negatnecreP\n0.4\n0.2 -0.3 -0.28\n0.0\n2000–2015 2015–2023 -0.4 -0.37",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 5,
+                "role": "paragraph",
+                "text": "Notes: Authors computations. SCI, service coverage index.\nSource: SDG indicator 3.8.1 and 3.8.2 (2025 definitions), Global service coverage and financial hardship databases\nassembled by WHO and the World Bank, 2025 update.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 6,
+                "role": "heading",
+                "text": "FIG_ES_3",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 7,
+                "role": "paragraph",
+                "text": "At the current pace of progress, the world is not on track to achieve UHC. The global\nUHC service coverage index will remain below 80, and close to 1 in 4 people globally will\ncontinue to face health-related financial hardship in 2030, the endpoint of the SDGs (Fig. 3).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 8,
+                "role": "paragraph",
+                "text": "Fig. 3. Global estimates and projected values of UHC pillars to 2030",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 9,
+                "role": "list",
+                "text": "Service coverage index Financial hardship\n74 noitaluop\n75 30\nrocS 28\n71 26\nlabolG 70 25 24\n68 labolg\n65 fo 20\n2015 2023 2030 % 2015 2022 2030\nYear Year",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 10,
+                "role": "paragraph",
+                "text": "Notes: Authors computations assuming SDG era pace of progress between 2015–2022 or 2015–2023 continues.\nSource: SDG indicator 3.8.1 and 3.8.2 (2025 definitions), Global service coverage and financial hardship databases\nassembled by WHO and the World Bank, 2025 update.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": true
+            },
+            {
+                "block_id": 11,
+                "role": "paragraph",
+                "text": "The slowing momentum is also reflected in country-level data, with fewer countries\nmaking simultaneous progress on both UHC dimensions. While 53% of countries\nprogressed in both UHC pillars between 2000 and 2022/2023, this share fell to 38% during\nthe SDG period (2015–2022/2023).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 12,
+                "role": "footer",
+                "text": "xvi",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 19,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "paragraph_based",
+            "reason": "Strongest body-region pattern: paragraph_based",
+            "mixed_types": [],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 1,
+                "structured_list": 0,
+                "form_like": 0
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 51,
+                    "char_count": 341,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 1,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 476,
+                    "char_count": 3067,
+                    "line_count": 1,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 1,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 29,
+                    "char_count": 170,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "paragraph",
+                "text": "Most country income groups and all regions registered gains in the SDG era. All\ncountry income groups except high-income countries made progress in service coverage\nand reduced financial hardship between 2015 and 2022/2023. Results in high-income\ncountries have been largely static in the SDG period, but their levels were already relatively\nhigh. As a group, low-income countries posted the fastest gains, although they still have\nthe largest gaps to close. All WHO regions saw progress in service coverage, while half\n(Africa, South-East Asia, and the Western Pacific) also reduced financial hardship.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "heading",
+                "text": "Progress in service coverage has been uneven",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "paragraph",
+                "text": "Infectious disease indicators have powered the global rise in service coverage since\n2000, while gains in noncommunicable diseases (NCDs) were slower. The infectious\ndiseases sub-index accounted for 52% of change in the global service coverage index\nbetween 2000 and 2023. The deceleration of progress is due to stagnation in the RMNCH\nand service capacity and access sub-indices. NCDs sub-index scores rose globally and\nacross WHO regions, but NCDs finished the period with the lowest score among the four\ncoverage sub-indices.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "paragraph",
+                "text": "Service coverage gaps between countries are narrowing. Progress has been fastest\nin countries that were initially lagging, and the number of countries with low or very low\ncoverage (coverage index <40) decreased from 55 in 2000 to only 8 in 2023. Globally, the\nUHC service coverage index and its sub-indices saw decreasing between-country inequality,\nwith index values converging towards higher levels.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 5,
+                "role": "paragraph",
+                "text": "Within-country inequalities in access to care and unmet need persist. Evidence from\na subset of low- and middle -income countries suggest notable within-country inequalities\nin accessing health services. Within countries, women living in poverty, in rural areas and\nless educated ones report more difficulties in accessing care, and the gap between women\nin the richest versus lowest fifth of the population has narrowed little in the past decade\n(about 5 percentage points). Even within countries in the European region, which has\namong the highest UHC results, population sub-groups – such as the disabled or poorest\n– still report higher unmet needs.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 6,
+                "role": "heading",
+                "text": "Global poverty reduction drove progress on financial\nhardship in health",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 7,
+                "role": "paragraph",
+                "text": "The downward trend in financial hardship results from a declining share of the\npopulation facing impoverishing OOP health spending since 2000.3 The rate of\nimpoverishing OOP health spending – meaning either being pushed into poverty or further\nimpoverished due to OOP health care payments – reduced from 29% in 2000 to 20% in\n2022, corresponding to 1.6 billion people facing impoverishing OOP health spending in\nthat year. At any point in time, most people experiencing financial hardship in health are\nincurring impoverishing OOP health spending.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 8,
+                "role": "paragraph",
+                "text": "3 The rates of impoverishing OOP health spending are different from the World Bank estimates of the number of people\npushed into or lifted out of poverty. Impoverishing OOP health spending captures both those who are pushed into\npoverty as well as those that are further impoverished by OOP health spending. It is also not a calculation of the change\nin poverty rates from one year to another but rather an assessment of the extent to which OOP health spending is\nimpoverishing within a given year.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 9,
+                "role": "footer",
+                "text": "Executive Summary xvii",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 20,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "paragraph_based",
+            "reason": "Strongest body-region pattern: paragraph_based",
+            "mixed_types": [],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 1,
+                "structured_list": 0,
+                "form_like": 0
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 59,
+                    "char_count": 348,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 1,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 504,
+                    "char_count": 3290,
+                    "line_count": 1,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 1,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "structured_list",
+                    "word_count": 30,
+                    "char_count": 183,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 1,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "paragraph",
+                "text": "Fewer people live in poverty, but a higher proportion of the poor is further impoverished\nby OOP health spending. Global poverty rates declined since 2000 from 43% to 25%,4\nreducing the total number of people at risk of being further impoverished by OOP health\nspending. Over the same period, the proportion of those living in poverty who spend OOP\non health has increased from 64% to 76%. This suggests that the decline in impoverishing\nOOP health spending was driven by global poverty reduction rather than by health systems’\nability to provide better financial protection to the poor.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "paragraph",
+                "text": "Financial hardship in health also affects a smaller but growing proportion of the\nnon-poor worldwide, who face disproportionately large OOP health spending. Such\nspending represents more than 40% of the household’s discretionary budget (budget net\nof the cost of basic needs) and thus means a substantial reduction in living standards. The\nrate of the population with large but non-impoverishing OOP health spending increased\nfrom 5% in 2000, representing almost 290 million people, to 6% in 2022, representing\nalmost 450 million people. This trend is concentrated in middle-income countries, where\nservice coverage expansion is often achieved with reliance on OOP spending.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "paragraph",
+                "text": "Experience of financial hardship in health also varies with demographic factors.\nAnalysis of primary data from a large set of countries shows that rural populations\nexperience a 13.7% higher median rate of financial hardship than do urban populations.\nPeople living in multigenerational households face higher rates of impoverishing OOP\nhealth spending relative to those in households with other demographic compositions,\nwhile adults over 60 face higher rates of large health spending.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "paragraph",
+                "text": "Spending on medicines accounts for more than a half of people’s OOP health spending\nin most countries. Across countries, the typical share of OOP health spending devoted\nto medicines is 56%. The share is even higher, around 60% – among the poorest fifth of\nthe population.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 5,
+                "role": "heading",
+                "text": "Implications of indicator revision for global trends",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 6,
+                "role": "paragraph",
+                "text": "The revised service coverage index shows a trend similar to that presented in the\nprevious edition of the report with the original indicator. Relative to the original index,\nthe revision updated the definitions of 3 out of the 14 tracers by replacing a proxy indicator\nwith a newly available coverage measure and aligning two indicators with other SDG\nindicators. It also introduced a new weighting of the service coverage indicators to better\nreflect the population affected by each indicator. The revision did not alter the high-level\nglobal trend, which shows that most of the increase in the service coverage index occurred\nfrom 2000 to 2015, followed by a slowdown during the SDG era.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 7,
+                "role": "paragraph",
+                "text": "The trends in the original and the revised SDG indicator 3.8.2 are not directly\ncomparable. The original indicator measured the incidence of catastrophic OOP health\nspending, defined as OOP health spending exceeding 10% and 25% of the household\ntotal budget, and presented a continuous deterioration in this partial measure of financial\nhardship. The revised indicator now measures both impoverishing and large OOP health\nspending.5 Impoverishing OOP health spending classifies any spending by people who\ncannot meet basic needs as financial hardship. The reduction in the revised indicator is\ndriven by a reduction in its impoverishing OOP component. The large OOP component\nof the revised indicator reflects a deterioration, which is aligned with that of the original\nSDG indicator 3.8.2.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 8,
+                "role": "paragraph",
+                "text": "4 As measured by the societal poverty line.\n5 This is achieved by considering OOP health spending in relation to the discretionary household budget rather than the\ntotal budget.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 9,
+                "role": "footer",
+                "text": "xviii",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 21,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "paragraph_based",
+            "reason": "Strongest body-region pattern: paragraph_based",
+            "mixed_types": [],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 1,
+                "structured_list": 2,
+                "form_like": 0
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 30,
+                    "char_count": 235,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 303,
+                    "char_count": 1971,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 1,
+                        "structured_list": 2,
+                        "form_like": 0
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 3,
+                    "char_count": 21,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "heading",
+                "text": "Policy implications: protect progress, accelerate change",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "paragraph",
+                "text": "The trends described above highlight specific gaps and challenges for accelerating UHC\nprogress, which translate into the following high-level policy directions relevant for many\ncountries but requiring discussion and adaptation to each country’s context:",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "unknown",
+                "text": "• Ensure essential health care is free at the point of access for the poor to reduce the\ngrowing share of people living in poverty who spend on health.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "unknown",
+                "text": "• Strengthen publicly funded compulsory prepaid coverage to accelerate the reduction\nin financial hardship among the whole population and reduce the rate of large OOP.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 5,
+                "role": "unknown",
+                "text": "• Address high OOP health spending on medicines, which absorbs on average 56% of\nOOP spending health spending in most countries.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 6,
+                "role": "paragraph",
+                "text": "• Accelerate expansion of essential NCD services as the NCDs sub-index has the lowest\nscore while burden of NCDs is rising, a trend that does not only increase the health\nneeds of the population but also puts financial strain on people who have to pay OOP\nfor chronic care.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 7,
+                "role": "paragraph",
+                "text": "• Strengthen primary health care, encompassing prevention, early detection and\ntreatment, to reduce barriers that hinder access to or disrupt the continuity of health\nservices.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 8,
+                "role": "paragraph",
+                "text": "• Adopt multisectoral UHC approaches, as key determinants of health and drivers of\nUHC lie also beyond the health sector. Indeed, global poverty reduction has driven\nreductions in financial hardship and access to basic sanitation have driven gains in\nservice coverage.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 9,
+                "role": "paragraph",
+                "text": "Strong political commitment is required. Evidence to date has shown that countries\nachieving better results on service coverage and financial hardship rely more heavily\non public spending, which in turn is predominantly buoyed by growth but also reflects\ngovernments’ ability to collect revenues and political will to prioritize health in budgets.\nAs many countries face macro-economic uncertainly and constrained fiscal space, political\ncommitment is more important than ever. Now is the time for bold action to protect\nprogress and accelerate inclusive gains, delivering essential health services without\nfinancial hardship to all.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 10,
+                "role": "footer",
+                "text": "Executive Summary xix",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 22,
+        "page_type": "low_text_page",
+        "text_structure": {
+            "text_structure": "unknown_text_structure",
+            "reason": "No strong text structure pattern found in body region",
+            "mixed_types": [],
+            "scores": {
+                "paragraph_based": 0,
+                "table_based": 0,
+                "structured_list": 0,
+                "form_like": 0
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "empty_or_non_text",
+                    "word_count": 0,
+                    "char_count": 0,
+                    "line_count": 0,
+                    "rect_count": 1,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "empty_or_non_text",
+                    "word_count": 0,
+                    "char_count": 0,
+                    "line_count": 0,
+                    "rect_count": 1,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 1,
+                    "char_count": 2,
+                    "line_count": 0,
+                    "rect_count": 1,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "footer",
+                "text": "xx",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 23,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "paragraph_based",
+            "reason": "Strongest body-region pattern: paragraph_based",
+            "mixed_types": [],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 1,
+                "structured_list": 2,
+                "form_like": 0
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "empty_or_non_text",
+                    "word_count": 0,
+                    "char_count": 0,
+                    "line_count": 1,
+                    "rect_count": 1,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 309,
+                    "char_count": 2078,
+                    "line_count": 2,
+                    "rect_count": 1,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 1,
+                        "structured_list": 2,
+                        "form_like": 0
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 26,
+                    "char_count": 185,
+                    "line_count": 1,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 1,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "unknown",
+                "text": "Introduction: A revised",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "unknown",
+                "text": "and improved monitoring",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "unknown",
+                "text": "framework for universal health",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "heading",
+                "text": "coverage",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 5,
+                "role": "paragraph",
+                "text": "The goal of universal health coverage (UHC) is for all people to receive the quality health\nservices they need, when and where they need them, without incurring financial hardship.\nUHC covers the full continuum of essential health services, from health promotion to disease\nprevention, treatment, rehabilitation and palliative care across the life course.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 6,
+                "role": "paragraph",
+                "text": "The Sustainable Development Goals (SDGs) incorporate UHC as SDG target 3.8. Two SDG\nindicators measure progress on the core pillars of UHC (1):",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 7,
+                "role": "paragraph",
+                "text": "• Indicator 3.8.1 tracks the service coverage dimension of UHC via the UHC service\ncoverage index (SCI) (2).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 8,
+                "role": "paragraph",
+                "text": "• Indicator 3.8.2 captures the financial protection dimension of UHC by measuring\nfinancial hardship due to out-of-pocket (OOP) payments for health services (3).6",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 9,
+                "role": "paragraph",
+                "text": "The World Health Organization (WHO) and the World Bank support country monitoring\nfor SDG UHC indicators. WHO acts as SDG data custodian for indicator 3.8.1. WHO and\nthe World Bank serve as co-custodians for indicator 3.8.2.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 10,
+                "role": "paragraph",
+                "text": "The window to 2030, the SDG target year, is closing. Without accelerated and sustained\nprogress, hard-won UHC gains risk being lost, and the pursuit of full service coverage and\nno financial hardship will remain out of reach. This 2025 UHC Global monitoring report\ndemonstrates why. Using revised and improved UHC indicators and fully reproduced time\nseries for both, the report presents the latest available UHC data and concludes with a\ncall to shared action.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 11,
+                "role": "paragraph",
+                "text": "This introductory chapter briefly presents the updated UHC indicators and discusses data\nissues. Online technical appendices provide additional background and technical features.\nKey terms with technical definitions, when available, and terminology used in the report\nare defined in the glossary.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 12,
+                "role": "paragraph",
+                "text": "6 Since 2025, indicator 3.8.2 monitors financial hardship due to out-of-pocket health spending using a discretionary\nbudget approach. The original 3.8.2 indicator tracked catastrophic out-of-pocket health spending using a budget share\napproach. For definitions of terms, please see glossary of terms.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 13,
+                "role": "footer",
+                "text": "1",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 24,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "paragraph_based",
+            "reason": "Strongest body-region pattern: paragraph_based",
+            "mixed_types": [],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 1,
+                "structured_list": 0,
+                "form_like": 2
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 37,
+                    "char_count": 208,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 541,
+                    "char_count": 3545,
+                    "line_count": 1,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 1,
+                        "structured_list": 0,
+                        "form_like": 2
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 24,
+                    "char_count": 131,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 1,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "heading",
+                "text": "A clearer picture of UHC progress",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "paragraph",
+                "text": "A comprehensive review of all SDG indicators began in 2024 as part of the scheduled 2025\nSDG review process (4). Of the 68 proposals received during the open call, the United\nNations Inter-Agency and Expert Group (IAEG) on SDG indicators retained 15 for global\nconsultation, including revisions to UHC indicators 3.8.1 (5) and 3.8.2 (6). WHO and the\nWorld Bank demonstrated the value added of the revision in several expert meetings.7 As\na result, in March 2025, the United Nations Statistical Commission approved the revised\nindicators for UHC’s service coverage and financial hardship pillars in addition to changes\nto 10 other SDG indicators (7).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "paragraph",
+                "text": "The revision of the service coverage indicator reduces the use of proxies and increases\nalignment with other health SDGs. It also introduces a new weighting system for the\ntracer indicators that combine to make up the UHC SCI (5). The revised financial hardship\nindicator addresses previous underestimation of the financial hardship experienced by\nthe poor, a major concern for the objective of leaving no one behind in any country, at\nany income level (6). Implications of the revisions for findings are discussed in the next\nchapter (see Table 1.3)",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "heading",
+                "text": "Tracking health service coverage: SDG indicator 3.8.1",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 5,
+                "role": "paragraph",
+                "text": "To represent the coverage of essential health services across the population, WHO\ncalculates the UHC SCI, a composite measure based on 14 tracer indicators8 spanning\nfour domains: reproductive, maternal, newborn and child health (RMNCH); infectious\ndiseases; noncommunicable diseases (NCDs); and service capacity and access. The revision\nof indicator 3.8.1 incorporates modifications in three of the 14 SCI tracers (Table 0.1).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 6,
+                "role": "paragraph",
+                "text": "The initial construction of SDG 3.8.1 in 2017 highlighted the challenge posed by the lack\nof available data on effective service coverage (8). In place of effective service coverage\nindicators, proxy indicators were provisionally adopted (e.g. mean fasting plasma glucose\nas a proxy for the coverage of diabetes treatment). From the outset, the intention was to\nrevise or replace proxy measures as coverage indicators became available.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 7,
+                "role": "paragraph",
+                "text": "Revised SDG indicator 3.8.1 also incorporates a new weighting scheme for all tracer\nindicators used in calculating the SCI. Previously, each of the SCI’s four sub-indices was a\ngeometric mean of its constituent tracer indicators, with equal weights for each. Because\nof the equal weighting, the change measured in the global SCI from 2000 to 2021 was\ndriven disproportionately (over 75%) by trends in the coverage of infectious disease-\nspecific treatments, especially antiretroviral therapy for people living with the human\nimmunodeficiency virus (HIV), which alone accounted for over 60% of total change in the\nUHC SCI over the period. The revised measurement scheme uses a weighted geometric\nmean that is less sensitive to these effects. The new approach considers the number of\npeople affected by each tracer indicator and so captures service burden more accurately.\nThe overall UHC SCI remains a geometric mean of the four sub-indices.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 8,
+                "role": "paragraph",
+                "text": "The revision of SDG indicator 3.8.1 offers an improvement, while highlighting areas where\nthe construction of the index could be further improved. Key health areas such as mental\nhealth, injuries and emergencies continue to lack robust coverage indicators; many of the",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 9,
+                "role": "footer",
+                "text": "7 August 2024: Member State information session on monitoring universal health coverage (Sustainable Development\nGoals target 3.8): Revision of SDG UHC indicators 3.8.1 and 3.8.2; October 2024: Fifteenth meeting of the IAEG-SDGs,\nagenda item 5; Nov. 2024: IAEG-SDGs monthly meeting for financial hardship.\n8 See Annex 1 for a list of the 14 tracer indicators.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 10,
+                "role": "footer",
+                "text": "2",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 25,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "mixed_text_structure",
+            "reason": "Body region contains multiple strong text structures: paragraph_based, table_based",
+            "mixed_types": [
+                "paragraph_based",
+                "table_based"
+            ],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 5,
+                "structured_list": 0,
+                "form_like": 1
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 55,
+                    "char_count": 360,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 2,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "table_based",
+                    "word_count": 367,
+                    "char_count": 2538,
+                    "line_count": 12,
+                    "rect_count": 18,
+                    "table_count": 2,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 5,
+                        "structured_list": 0,
+                        "form_like": 1
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 25,
+                    "char_count": 178,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "paragraph",
+                "text": "indicators measure contact coverage as opposed to effective coverage (see glossary). The\ncontinued use of proxy indicators in place of coverage indicators can result in bias towards\na particular indicator (e.g. the tobacco use reduction indicator in the NCDs sub-index).\nThe 14 tracer indicators continue to be indicative of service coverage, not a complete or\nexhaustive list of health services and interventions that are required for UHC. Moreover,\nthe SCI does not measure the population covered by essential health services, and this is\nderived using a different method (see section 1.3). Sustained investment in country-owned\nhealth information systems including civil registration and vital statistics, routine facility data,\nand patient-level reporting, is essential to generate accurate, country-level assessment of\neffective coverage in the long run.",
+                "is_continuation": true,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "paragraph",
+                "text": "Table 0.1. Revisions to UHC service coverage index tracer indicators",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "table",
+                "text": "Tracer area Revised indicator Original indicator Rationale for the revision",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "table",
+                "text": "Family Proportion of women Percentage Aligns with SDG 3.7.1 on planning of reproductive age of women of contraceptive use (9). (15–49 years) who have reproductive age their need for family (15–49 years) planning satisfied with who are married or in-union who have their need for family planning satisfied with modern methods.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 5,
+                "role": "table",
+                "text": "Health Health workers (medical Health workers Aligns with SDG 3.c.1 workforce doctors, nursing and (physicians, for health worker midwifery personnel). psychiatrists, and density (10) and increases data availability.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 6,
+                "role": "table",
+                "text": "Diabetes Coverage of diabetes Age-standardized The revised indicator management treatment (taking mean fasting captures patient medication) among plasma glucose treatment, whereas the diabetic adults aged for adults aged 18 years and older. 30+ years (age-standardized estimate). The earlier indicator was a proxy measure.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 7,
+                "role": "paragraph",
+                "text": "Note: Revised language in green type. Replaced language in orange type. Where terms have been replaced with no\nimplication for the indicator, no colour is used. SDG, Sustainable Development Goal; UHC, universal health coverage.\nSource: Authors, based on (2,5,11).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 8,
+                "role": "heading",
+                "text": "Tracking financial hardship in health: SDG indicator 3.8.2",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 9,
+                "role": "paragraph",
+                "text": "The revised SDG indicator 3.8.2 monitors the financial hardship dimension of UHC in a\nmore streamlined and comprehensive manner (Table 0.2). The original indicator sought\nto capture financial hardship due to OOP health spending with an exclusive focus on\nlarge OOP health spending, referred to as “catastrophic” OOP health spending. This\nwas done by using a “budget share” approach. Two thresholds, 10% and 25% of total\nhousehold income or consumption (budget), were applied to all people. This approach\ndid not sufficiently acknowledge that even relatively small OOP health payments (<10% of",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 10,
+                "role": "footer",
+                "text": "Introduction: A revised and improved monitoring framework for universal health coverage 3",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [
+            {
+                "table_id": 1,
+                "headers": [],
+                "rows": [],
+                "notes": "No raw_table or rough_matrix provided to clean the table."
+            }
+        ],
+        "warnings": []
+    },
+    {
+        "page_number": 26,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "paragraph_based",
+            "reason": "Strongest body-region pattern: paragraph_based",
+            "mixed_types": [],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 1,
+                "structured_list": 0,
+                "form_like": 0
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 55,
+                    "char_count": 360,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 2,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 436,
+                    "char_count": 2912,
+                    "line_count": 1,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 1,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 23,
+                    "char_count": 142,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "paragraph",
+                "text": "household total budget) further reduce the ability of people living in poverty to meet basic\nneeds. Meanwhile, wealthier people may still enjoy high living standards after spending\n10% or 25% of their total budget on health. Catastrophic out-of-pocket health spending\nbased on this total budget share approach, as defined with the original SDG 3.8.2 indicator,\ntended to be concentrated among the better-off economically (12).9",
+                "is_continuation": true,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "paragraph",
+                "text": "The revised indicator 3.8.2, referred to as the “financial hardship indicator,” better captures\nthe impact of OOP health spending on poorer populations by focusing on households’\ndiscretionary budget (total budget minus the societal poverty line (SPL), which represents\nthe cost of basic needs (see glossary)). The new approach registers as financial hardship\nany level of OOP spending by those who live below the SPL and thus have no discretionary\nbudget. It still captures financial hardship among the non-poor but in a stricter way. For\nwealthier people, toward the top of the income/consumption distribution, 40% of their\ndiscretionary budget typically amounts to well above 10% of the total budget. The revision\nof indicator 3.8.2 is based on methods developed by the World Bank (13) and the WHO\nRegional Office for Europe (14), building on “capacity to pay” approaches (15,16).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "paragraph",
+                "text": "The revised indicator simplifies the UHC global monitoring framework, which previously\nsupplemented the SDG indicator of catastrophic health spending with additional indicators\nof impoverishing OOP health spending using two different poverty lines to capture financial\nhardship across the whole population (i.e. poor and non-poor). The total population\nfacing financial hardship was monitored by adding up those incurring impoverishing and\ncatastrophic OOP health spending without double counting. The new financial hardship\nindicator can directly be decomposed into mutually exclusive categories of impoverishing\nand large (but not impoverishing) OOP health spending and, as such, does not require\nany additional indicator (Table 0.2).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "paragraph",
+                "text": "The shift to the SPL in calculating SDG 3.8.2 is guided by the global nature of the SDG\nindicators. The SPL was developed by the World Bank (17) following the recommendation\nof the Atkinson Commission on Global Poverty to introduce a “societal” headcount. It is\na measure of basic needs that adapts to each country’s median living standard and was\ndeveloped as the closest empirical fit to national poverty lines. The SPL includes both\nabsolute and relative components, recognizing that the costs of basic needs and social\ninclusion increase as a country gets wealthier. The SPL increases as median consumption\nincreases, making poverty measurement relevant across country income groups. The SPL\nis used for the global tracking of financial hardship. Other thresholds are applied to track\nfinancial hardship at the national and regional level and to develop evidence-based policy\nrecommendations (18–20).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 5,
+                "role": "paragraph",
+                "text": "9 Other approaches to define catastrophic OOP health spending exist, and those based on capacity to pay approaches\ntend to produce measurements that are more concentrated among people living in poverty (see UHC Global Monitoring\nReport 2023 (1), annex 8).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 6,
+                "role": "footer",
+                "text": "4",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 27,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "mixed_text_structure",
+            "reason": "Body region contains multiple strong text structures: paragraph_based, table_based, form_like",
+            "mixed_types": [
+                "paragraph_based",
+                "table_based",
+                "form_like"
+            ],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 4,
+                "structured_list": 0,
+                "form_like": 3
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "table_based",
+                    "word_count": 20,
+                    "char_count": 146,
+                    "line_count": 0,
+                    "rect_count": 4,
+                    "table_count": 1,
+                    "scores": {
+                        "paragraph_based": 1,
+                        "table_based": 2,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "table_based",
+                    "word_count": 542,
+                    "char_count": 3670,
+                    "line_count": 3,
+                    "rect_count": 13,
+                    "table_count": 1,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 4,
+                        "structured_list": 0,
+                        "form_like": 3
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "table_based",
+                    "word_count": 19,
+                    "char_count": 140,
+                    "line_count": 0,
+                    "rect_count": 2,
+                    "table_count": 1,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 2,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "paragraph",
+                "text": "Table 0.2. Revisions to SDG indicator 3.8.2 and complementary indicators",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "table",
+                "text": "Revised indicator Original indicator Rationale for the revision",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "table",
+                "text": "SDG 3.8.2",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "table",
+                "text": "Proportion of the population Proportion of the population with To recognize any with positive out-of-pocket (OOP) large household expenditure on impoverishing OOP as household expenditure on health health exceeding 10% and 25% of financial hardship, regardless of the household’s total consumption or of its size relative to the household budget. To have a more stringent approach. The indicator can be definition of what constitutes financial hardship among the economically better-off. To recognize any with positive out-of-pocket (OOP) household expenditure on health exceeding 40% of household discretionary budget*, referred to as catastrophic out-of-pocket health spending (budget share). The indicator can be decomposed into 2 mutually exclusive categories: a",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 5,
+                "role": "table",
+                "text": "SDG 3.8.2",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 6,
+                "role": "table",
+                "text": "1. Proportion of population facing impoverishing OOP health spending (OOP that reduces households’ ability to meet basic needs)b The adoption of the SPL as a measure of basic needs enables incorporation of impoverishing OOP into the global tracking in a way that is relevant to countries of all income levels, given its alignment with national poverty thresholds. 2. Proportion of population facing large but not impoverishing OOP health spending.c No changes in data *Discretionary budget is defined as the total household consumption expenditure or income (budget) minus the cost of basic needs, represented by the societal poverty line (SPL).d Aligns with SDG 1 (21) (poverty eradication) and SDG 10 (22) (reduce inequalities).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 7,
+                "role": "table",
+                "text": "Complementary indicators included in previous UHC global monitoring reports",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 8,
+                "role": "table",
+                "text": "None. A. Proportion of the population with impoverishing OOP health spending because the revised indicator using two poverty lines: the international absolute poverty line and relative poverty lines set at 60% of each country’s median per capita consumption or income. This is no longer needed. The revised indicator tracks financial hardship (B) through a unified approach, achieved by applying the discretionary budget method. This allows it to capture impoverishing OOP health spending (A), while also addressing large OOP health spending – the focus of the original SDG 3.8.2 indicator. B. Proportion of the population facing financial hardship due to OOP health spending, including those that experienced catastrophic health expenditure (at the 10% level), impoverishing health expenditure, or both without double counting.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 9,
+                "role": "paragraph",
+                "text": "Note: Revised language in green type. Replaced or deleted language in orange type. a Not required within the SDG monitoring framework\nbut reported by WHO and the World Bank to understand what drives overall financial hardship. b In technical terms, impoverishing OOP\ncorresponds to positive OOP household expenditure on health exceeding 100% of the household discretionary budget. The proportion of\nthe population facing impoverishing OOP health spending can be further decomposed into the proportion of the population pushed into\npoverty and the proportion further impoverished. The proportion pushed into poverty corresponds to the increase in poverty headcount\nratio due to including or excluding OOP health spending from household total consumption or income (23). The proportion further\nimpoverished corresponds to those who are poor and are spending on health as a share of the total population (24). c In technical terms,\nlarge but not impoverishing OOP health spending corresponds to positive OOP household expenditure on health exceeding 40% but\nbelow 100% of the household discretionary budget. d In 2017 purchasing power parities, the SPL corresponds to whichever is greater:\nUS$ 2.15 (the international absolute poverty line) or US$ 1.15 + 50% of median household consumption expenditure or income net of OOP\nhealth spending.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 10,
+                "role": "footer",
+                "text": "Source: Authors, based on (6,25).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 11,
+                "role": "footer",
+                "text": "Introduction: A revised and improved monitoring framework for universal health coverage 5",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [
+            {
+                "table_id": 1,
+                "headers": [],
+                "rows": [],
+                "notes": "No raw_table or rough_matrix provided to clean the table."
+            }
+        ],
+        "warnings": [
+            "Page 27, block 4: Possible line break issues, text may not be perfectly cleaned."
+        ]
+    },
+    {
+        "page_number": 28,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "mixed_text_structure",
+            "reason": "Body region contains multiple strong text structures: paragraph_based, table_based",
+            "mixed_types": [
+                "paragraph_based",
+                "table_based"
+            ],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 4,
+                "structured_list": 0,
+                "form_like": 0
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 54,
+                    "char_count": 356,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 2,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "table_based",
+                    "word_count": 199,
+                    "char_count": 1422,
+                    "line_count": 16,
+                    "rect_count": 2,
+                    "table_count": 1,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 4,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 1,
+                    "char_count": 1,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "paragraph",
+                "text": "SDG indicator 3.8.2 remains limited in scope, even after its revision. SDG 3.8.2 alone is\nnot sufficient to monitor financial protection in health, as it focuses exclusively on the\nfinancial hardship dimension (see glossary) – capturing how OOP health spending affects\nhouseholds’ living standards – and does not account for financial barriers that prevent\npeople from accessing needed care (Fig. 0.1). Therefore, the population facing financial\nhardship is an underestimation of the population without financial protection.\nFIG_0.1\nFig. 0.1. Financial hardship and financial barriers to accessing health care",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "unknown",
+                "text": "All people in need of health care\ngoods and services",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "unknown",
+                "text": "Forgone care Care received",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "paragraph",
+                "text": "No\nOut-of-pocket (OOP)\nOOP health\nhealth spending\nspending",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": true
+            },
+            {
+                "block_id": 5,
+                "role": "paragraph",
+                "text": "Impoverishing Large OOP health\nNo financial\nOOP health spending but not\nhardship\nspending impoverishing",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 6,
+                "role": "unknown",
+                "text": "Non-financial Financial Financial\nbarriers barriers hardship",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 7,
+                "role": "unknown",
+                "text": "Lack of financial protection",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 8,
+                "role": "unknown",
+                "text": "Note: All concepts are defined in the glossary.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 9,
+                "role": "unknown",
+                "text": "Source: Authors, based on Tracking universal health coverage: 2023 global monitoring report (1).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 10,
+                "role": "paragraph",
+                "text": "In addition, the indicator does not distinguish how OOP health spending is financed –\nwhether from income, informal support, or distress financing such as borrowing or selling\nassets, patterns that have different short- and long-term consequences. Most data sources\ngenerally lack this level of detail. As a result, neither the initial nor the revised definition\ncan fully capture the impact and temporal dynamics of OOP health spending on living\nstandards (26,27). Further methodological limitations, including those related to survey\ndesign and reporting timelines, are noted in the revised metadata (2,3).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": true
+            },
+            {
+                "block_id": 11,
+                "role": "footer",
+                "text": "6",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 29,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "paragraph_based",
+            "reason": "Strongest body-region pattern: paragraph_based",
+            "mixed_types": [],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 1,
+                "structured_list": 2,
+                "form_like": 0
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 33,
+                    "char_count": 218,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 2,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 508,
+                    "char_count": 3285,
+                    "line_count": 1,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 1,
+                        "structured_list": 2,
+                        "form_like": 0
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 48,
+                    "char_count": 308,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 2,
+                        "table_based": 0,
+                        "structured_list": 1,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "heading",
+                "text": "Joint limitations of SDG 3.8.1 and 3.8.2 indicators",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "paragraph",
+                "text": "To obtain a comprehensive picture of progress towards UHC, the financial hardship\nindicator must be interpreted together with SDG 3.8.1 on service coverage, hence the\nfocus in chapter 1 on progress in both dimensions.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "paragraph",
+                "text": "The UHC SDG indicators 3.8.1 and 3.8.2 are obtained from different data sources and\ncannot be used to determine, within a given country, who benefits from service coverage\nwithout financial hardship. It is not possible to estimate the overlap between the number\nof people without access to essential health services, which is derived from SDG 3.8.1\n(presented in chapter 1), and the number of people facing financial hardship (presented\nin chapters 1 and 3).10 Finally, the different types of household surveys used for production\nof both indicators might not collect information on marginalized and/or vulnerable groups\n(e.g. those living in slum areas or displaced populations).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "unknown",
+                "text": "Data sources and background for interpretation",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 5,
+                "role": "unknown",
+                "text": "This sub-section discusses data issues related to the report and provides information to\nfacilitate interpretation.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 6,
+                "role": "paragraph",
+                "text": "Progress on service coverage is monitored in 195 countries and territories11 with annual\nestimates from 2000–2023. The values of the tracer indicators used to compile the SCI are\nderived from country reported data (such as administrative and facility data), existing WHO\nand United Nations agency modelled estimates, and published results from household\nsurveys. On average, 50% of data points from 2015 to 2023 had country data for indicators\nre-reporting household surveys or administrative/facility data. To calculate the annual\nUHC SCI, missing values of a tracer indicator are imputed by extending existing data or\nusing regional medians in the absence of country data. WHO collated tracer indicators to\ncalculate the UHC SCI in early 2025, with support from the United Nations Children’s Fund\n(UNICEF) and the United Nations Department of Economic and Social Affairs (UNDESA).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 7,
+                "role": "paragraph",
+                "text": "WHO and the World Bank jointly collated data for the financial hardship indicator. Trends\nin financial hardship due to OOP health spending have been tracked using data drawn\nfrom 1112 household surveys from 168 countries or territories. WHO and the World\nBank processed the majority of survey data to obtain country–year estimates of financial\nhardship rates.12 To produce population-weighted global and regional aggregates for the\nperiod 2000 to 2022, WHO and World Bank teams used the country data to interpolate or\nmodel rates for all missing country–year pairs.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 8,
+                "role": "paragraph",
+                "text": "Beginning in April 2025, WHO consulted with designated focal points from national\ngovernments and national statistical offices in 195 countries on SCI and financial hardship\nestimates. The consultation period lasted two to three months, depending on countries’\nlevel of engagement. Based on country feedback, data for at least one UHC indicator were\nrevised in 58 countries. Results presented in this report reflect data available to WHO and\nthe World Bank as of July 2025.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 9,
+                "role": "paragraph",
+                "text": "10 The World Health Survey Plus has been designed to collect data at the household level on both areas, enabling joint\nmeasurement for global monitoring in the future.\n11 Statistics in this report refer to countries and territories. See Annex 3 for the full list.\n12 During the country consultation on SDG UHC indicators, WHO received primary estimates on the revised SDG 3.8.2 from\n15 countries or territories out of the total 168 included in the analysis presented in this report.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 10,
+                "role": "footer",
+                "text": "Introduction: A revised and improved monitoring framework for universal health coverage 7",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    },
+    {
+        "page_number": 30,
+        "page_type": "text_based",
+        "text_structure": {
+            "text_structure": "paragraph_based",
+            "reason": "Strongest body-region pattern: paragraph_based",
+            "mixed_types": [],
+            "scores": {
+                "paragraph_based": 3,
+                "table_based": 1,
+                "structured_list": 0,
+                "form_like": 0
+            },
+            "region_summary": {
+                "top_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 27,
+                    "char_count": 183,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "body_region": {
+                    "likely_structure": "paragraph_based",
+                    "word_count": 532,
+                    "char_count": 3354,
+                    "line_count": 0,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 3,
+                        "table_based": 1,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                },
+                "bottom_region": {
+                    "likely_structure": "unknown",
+                    "word_count": 38,
+                    "char_count": 223,
+                    "line_count": 1,
+                    "rect_count": 0,
+                    "table_count": 0,
+                    "scores": {
+                        "paragraph_based": 0,
+                        "table_based": 0,
+                        "structured_list": 0,
+                        "form_like": 0
+                    }
+                }
+            }
+        },
+        "clean_blocks": [
+            {
+                "block_id": 1,
+                "role": "unknown",
+                "text": "For a more detailed technical discussion of data sources, data availability, and analytic\nmethods in service coverage and financial hardship, see Annexes 1 and 2.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 2,
+                "role": "heading",
+                "text": "Interpreting results",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 3,
+                "role": "paragraph",
+                "text": "A single SCI score from 0 to 100 cannot fully capture all the health services defined in\nUHC. The SCI uses a selection of indicators to represent overall coverage of essential\nhealth services. The higher the SCI score, the more comprehensive the service coverage.\nImportantly, as noted in the previous discussion on limitations, the SCI should not be\ninterpreted in terms of population coverage (see also section 1.3).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 4,
+                "role": "paragraph",
+                "text": "It is often useful to group country SCI findings for interpretation in terms of broad levels:\nvery high service coverage (SCI of 80 or above), high service coverage (SCI between 60 and\n79), medium service coverage (SCI between 40 and 59), low service coverage (SCI between\n20 and 39) and very low service coverage (SCI <20).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 5,
+                "role": "paragraph",
+                "text": "The rate of financial hardship due to OOP health spending is measured at the population\nlevel and can be interpreted as the share of the population facing financial hardship due\nto either impoverishing OOP health spending or OOP health spending that is large but\nnot impoverishing, simply referred to as large OOP health spending in the remainder of\nthis report. People living in households incurring large OOP health spending can cover\ntheir basic needs but have a substantially lower ability to pay for other goods and services.\nImpoverishing OOP health spending reduces people’s ability to meet basic needs. The\nrevised indicator’s decomposability into these two elements is one of its new main technical\nadvantages, in addition to better capturing the financial hardship faced by people in poorer\neconomic conditions.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 6,
+                "role": "paragraph",
+                "text": "The population experiencing impoverishing OOP health spending can be further divided\ninto two groups: (a) people further impoverished who are already living in poverty and\nspend on health out-of-pocket, further reducing their ability to afford basic needs; (b)\npeople who are not poor in the absence of OOP health spending, but who cannot afford\nbasic needs after spending on health out-of-pocket, are referred to as those pushed into\npoverty (see glossary and Table 0.2).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 7,
+                "role": "heading",
+                "text": "Monitoring during COVID-19 pandemic",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 8,
+                "role": "paragraph",
+                "text": "The global and regional estimates for 2020 and 2021 presented throughout this report\ndo not fully capture the impact of the peak years of disruption caused by the COVID-19\npandemic, when the world experienced multiple health and economic shocks (28–34). All\nfigures in this report display a shaded grey area for these two years.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 9,
+                "role": "paragraph",
+                "text": "For service coverage indicators using reported administrative data and household surveys, no\nattempt was made to further adjust for the effect of the pandemic. Some indicators show the\nimpact of COVID-19, with noticeable drops in coverage globally during the pandemic’s peak\nyears. However, the global SCI appears relatively smooth over this period. This is due to its\nconstruction as a weighted geometric mean across 14 tracer indicators, some of which are\nproxy indicators that do not directly measure service delivery or are less sensitive to short-\nterm shocks (see Annex 1 for detailed indicator sources).",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 10,
+                "role": "paragraph",
+                "text": "For financial hardship, trends in 2020/2021 appear smooth because the values are\ninterpolated (based on preceding and subsequent years) or modelled to a larger extent\ndue to the interruption of many household surveys. No attempt was made to model the\neffect of the pandemic, due to insufficient primary country data.13",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 11,
+                "role": "paragraph",
+                "text": "13 Available data based on surveys conducted in 2020 or 2021, from 26 of the 168 countries, are treated consistently in the\nsame way as data from other years, without attempting to isolate the pandemic’s specific effects.",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            },
+            {
+                "block_id": 12,
+                "role": "footer",
+                "text": "8",
+                "is_continuation": false,
+                "continues_from_previous_page": false,
+                "continues_after_visual": false
+            }
+        ],
+        "clean_tables": [],
+        "warnings": []
+    }
+]

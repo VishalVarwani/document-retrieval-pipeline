@@ -1,0 +1,20 @@
+# Ignore PDF test/input files
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# OS/editor files
+.DS_Store
+.vscode/
